@@ -11,5 +11,5 @@
 // about supported directives.
 //
 //= require rails-ujs
-//= require turbolinks
+document.addEventListener('turbolinks:load', Bootsy.init);
 //= require_tree .
