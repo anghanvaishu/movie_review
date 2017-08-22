@@ -20,6 +20,7 @@ gem 'paperclip', '~> 4.2.0'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 gem 'bootsy'
 gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
+gem 'searchkick', '~> 2.3', '>= 2.3.1'
 
 
 
