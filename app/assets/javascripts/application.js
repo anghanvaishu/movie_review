@@ -10,9 +10,9 @@
 // Read Sprockets README (https://github.com/rails/sprockets#sprockets-directives) for details
 // about supported directives.
 //
-document.addEventListener('turbolinks:load', Bootsy.init);
 //= require rails-ujs
 //= require jquery
+//= require jquery.raty
 //= require bootstrap-sprockets
-
+document.addEventListener('turbolinks:load', Bootsy.init);
 //= require_tree .
